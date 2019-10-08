@@ -8,3 +8,6 @@ Using
 
 - parallel assignment with elsif statement
 - unless & different between print, puts and p
+- Inherit
+- [looping](looping/)
+
