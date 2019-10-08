@@ -7,3 +7,4 @@ Using
 ## Content
 
 - parallel assignment with elsif statement
+- unless & different between print, puts and p
