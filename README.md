@@ -10,4 +10,6 @@ Using
 - unless & different between print, puts and p
 - Inherit
 - [looping](looping/)
+- Argument Passing
+- Range
 
