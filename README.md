@@ -12,4 +12,7 @@ Using
 - [looping](looping/)
 - Argument Passing
 - Range
+- Using Map
+- Regular Expression
+- [Object Oriented Programming](oop/)
 
