@@ -1,6 +1,6 @@
 # Basic Ruby
 
-Using
+Menggunakan
 
 - Ruby Version 2.6.4
 
